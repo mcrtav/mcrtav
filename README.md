@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 -->
 
-💻 java - 💻 python - 💻 Django - 💻 Mysq - 💻 PostgreSQL - 💻 HTML - 💻 CSS - 💻 JavaScript - 💻 React - 💻 TYPESCRIPT 
+💻 java - 💻 python - 💻 Django - 💻 Mysq - 💻 PostgreSQL - 💻 HTML - 💻 CSS - 💻 React - 💻 JavaScript - 💻 Node - 💻 TYPESCRIPT 
