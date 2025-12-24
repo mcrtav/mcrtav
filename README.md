@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  💻 java - 💻 Csharp - 💻 Access - 💻 excel vba - 💻 delphi - 💻 python - 💻 visual basic - 💻 IOS - 💻 Android - 💻 Swift
+    💻 Ruby - 💻 Java Script - 💻 Golang - 💻 C++ - 💻 C - 💻 PHP - 💻 Mysq - 💻 HTML - 💻 CSS - 💻 SQL- 💻 TYPESCRIPT
+    💻 ASSEMBLY - 💻 OBJECTIVE-C - 💻 VB.NET - 💻 R - 💻 MATLAB - 💻 SCALA - 💻 LUA - 💻 SHELL - 💻 PERL - 💻 KOTLIN
+
+
 -->
+
+💻 java - 💻 python -💻 Java Script - 💻 Mysq - 💻 HTML - 💻 CSS - 💻 SQ L- 💻 TYPESCRIPT 
